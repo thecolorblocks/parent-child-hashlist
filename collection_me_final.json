@@ -47542,5 +47542,53 @@
         }
       ]
     }
+  },
+  {
+    "id": "f81f4178213fb866a044ac1db6aca09b845794f6c5f80d647bdeb4b5e7651b71i0",
+    "meta": {
+      "name": "IDEOGRAPH #1981",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "de Jong"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Circle"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "5"
+        },
+        {
+          "trait_type": "Color",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f81f4178213fb866a044ac1db6aca09b845794f6c5f80d647bdeb4b5e7651b71i1",
+    "meta": {
+      "name": "IDEOGRAPH #1982",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Svensson"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Circle"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "4"
+        },
+        {
+          "trait_type": "Color",
+          "value": "indigo"
+        }
+      ]
+    }
   }
 ]

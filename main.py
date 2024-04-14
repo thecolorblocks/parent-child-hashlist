@@ -52,6 +52,7 @@ def main():
 		collection = add_to_collection(collection, children['ids'], name)
 		more = children['more']
 		page = children['page']
+		print("Page", page)
 	
 	# Save to JSON
 	with open(output, 'w') as collection_json:

@@ -45,7 +45,7 @@ def extract_json_trait(html_content):
 with open('collection.json', 'r') as collection_file:
 	collection = json.load(collection_file)
 
-startindex = 1957
+startindex = 1980
 
 for item in collection[startindex:]:
 	item_url = baseurl+item["id"]
