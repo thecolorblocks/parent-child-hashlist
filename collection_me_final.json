@@ -47590,5 +47590,413 @@
         }
       ]
     }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i0",
+    "meta": {
+      "name": "IDEOGRAPH #1983",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Clifford"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "4"
+        },
+        {
+          "trait_type": "Color",
+          "value": "indigo"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i1",
+    "meta": {
+      "name": "IDEOGRAPH #1984",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Clifford"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Flora"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "darkolivegreen"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i2",
+    "meta": {
+      "name": "IDEOGRAPH #1985",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Clifford"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i3",
+    "meta": {
+      "name": "IDEOGRAPH #1986",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Svensson"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Lemniscate"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "5"
+        },
+        {
+          "trait_type": "Color",
+          "value": "darkolivegreen"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i4",
+    "meta": {
+      "name": "IDEOGRAPH #1987",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Svensson"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "4"
+        },
+        {
+          "trait_type": "Color",
+          "value": "sienna"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i5",
+    "meta": {
+      "name": "IDEOGRAPH #1988",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Svensson"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "4"
+        },
+        {
+          "trait_type": "Color",
+          "value": "darkolivegreen"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i6",
+    "meta": {
+      "name": "IDEOGRAPH #1989",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Rampe"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "4"
+        },
+        {
+          "trait_type": "Color",
+          "value": "darkolivegreen"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i7",
+    "meta": {
+      "name": "IDEOGRAPH #1990",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Clifford"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "navy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i8",
+    "meta": {
+      "name": "IDEOGRAPH #1991",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "de Jong"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Circle"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "darkolivegreen"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i9",
+    "meta": {
+      "name": "IDEOGRAPH #1992",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "de Jong"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Circle"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i10",
+    "meta": {
+      "name": "IDEOGRAPH #1993",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Rampe"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Circle"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "6"
+        },
+        {
+          "trait_type": "Color",
+          "value": "darkolivegreen"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i11",
+    "meta": {
+      "name": "IDEOGRAPH #1994",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "de Jong"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "indigo"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i12",
+    "meta": {
+      "name": "IDEOGRAPH #1995",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "de Jong"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "navy"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i13",
+    "meta": {
+      "name": "IDEOGRAPH #1996",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Rampe"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "darkolivegreen"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i14",
+    "meta": {
+      "name": "IDEOGRAPH #1997",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Clifford"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Lemniscate"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "4"
+        },
+        {
+          "trait_type": "Color",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i15",
+    "meta": {
+      "name": "IDEOGRAPH #1998",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "Rampe"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1fedb19ed8a011b138cb165f3b863c1caf71cbb31bce237e4cd22f9879bca16i16",
+    "meta": {
+      "name": "IDEOGRAPH #1999",
+      "attributes": [
+        {
+          "trait_type": "Ideographic Family",
+          "value": "de Jong"
+        },
+        {
+          "trait_type": "Initial Stroke Style",
+          "value": "Square"
+        },
+        {
+          "trait_type": "Steps",
+          "value": "3"
+        },
+        {
+          "trait_type": "Color",
+          "value": "navy"
+        }
+      ]
+    }
   }
 ]
